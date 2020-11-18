@@ -1,1 +1,1 @@
-# Canda-Home-price-Prediction
+# Canada-Home-price-Prediction
